@@ -18,7 +18,7 @@ Your professional portrait is already included in `assets/shahrin-tabassum-portr
 
 ## Maintenance
 - Project links live in `index.html` and point to public repositories.
-- Replace `files/Shahrin_Tabassum_Resume.pdf` when your CV changes.
+- Replace `files/Shahrin_Tabassum_ATS_Centered_Final_2026.pdf` when your CV changes.
 - The Millennium Fellowship project is ongoing and described as outreach-stage, not completed impact.
 - The additional Data Analytics course is labeled in progress; no certification has been claimed.
 - This is a public website: your email is visibly displayed.
@@ -35,3 +35,14 @@ Your professional portrait is already included in `assets/shahrin-tabassum-portr
 - Accessible subtle reveal animations respect reduced-motion preferences.
 
 **Accuracy note:** NexusEdu and thesis descriptions distinguish personal contributions from team outcomes; Fellowship is explicitly ongoing.
+
+
+## October 2026 volunteering update
+Added **Volunteering & Community Impact** as its own navigation and content section. Halishahar Songskar Choloman is presented as a past initiative (Aug–Sep 2024), with a clickable details panel and four completed activity categories. Updated the embedded resume PDF with the volunteering-inclusive ATS version.
+
+
+## Updated resumes (October 2026)
+
+- Website **Resume / View resume** buttons open `files/Shahrin_Tabassum_ATS_Centered_Final_2026.pdf` (the latest ATS resume **without a photo**, with the name centered).
+- The latest Career Fair resume with photo and left-aligned name is included as `files/Shahrin_Tabassum_Career_Fair_With_Photo.pdf` for optional use.
+- To update GitHub Pages, upload the extracted **contents** to the repository root, preserving the `assets` and `files` directories and replacing existing files.
